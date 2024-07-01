@@ -26,6 +26,11 @@ export const sidebarLinks = [
   },
   {
     imgURL: "/icons/transaction.svg",
+    route: "/create-invoice",
+    label: "Create Invoice",
+  },
+  {
+    imgURL: "/icons/transaction.svg",
     route: "/my-wallets",
     label: "My Wallets",
   },
